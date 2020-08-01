@@ -10,6 +10,7 @@ import java.net.*;
  * To change this template use File | Settings | File Templates.
  */
 public class Client {
+	
     public static void main(String[] args) {
         DataInputStream dataInputStream;//从服务器读取数据输入流
         FileOutputStream fileOutputStream;//写入本地文件流
